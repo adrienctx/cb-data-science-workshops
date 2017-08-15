@@ -23,3 +23,7 @@ pip install git+git://github.com/yhat/ggpy.git@9d00182343eccca6486beabd256e8c89f
 cd kaggle-zillow/notebooks/
 jupyter notebook
 ```
+
+
+# Sources:
+* [This Kaggle kernel](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-zillow-prize), [this one](https://www.kaggle.com/aharless/xgboost-lightgbm-and-ols), [Pandas documentation](https://pandas.pydata.org/pandas-docs/stable/visualization.html)
