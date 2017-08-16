@@ -11,7 +11,7 @@ source activate py3env
 
 * install required packages with conda: numpy, pandas, matplotlib, seaborn, xgboost
 ```
-conda install numpy pandas matplotlib seaborn ipykernel
+conda install numpy pandas matplotlib seaborn ipykernel scikit-learn
 conda install -c conda-forge xgboost
 ```
 * install ggplot package as follows (there is a currently conflict with pandas)
