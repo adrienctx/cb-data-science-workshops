@@ -1,0 +1,15 @@
+*.DS_Store
+*.class
+*.classpath
+*.dex
+*.eml
+*.iml
+*.project
+*.swp
+*.settings
+*.pyc
+.idea/
+.ipynb_checkpoints/*
+
+kaggle-zillow/notebooks/.ipynb_checkpoints/*
+kaggle-zillow/output/*
